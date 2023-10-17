@@ -2,15 +2,6 @@
 
 This is the first file in this repo.
 
-##Git
+##Website content
 
-we will be using : git  - a file version control system  for our projects.
-
-Go through this training video, try git in your computer and reply (it will look simple, but will take some practice to understand it)
-
-https://www.udemy.com/course/git-going-fast/learn/lecture/1328088#overview
-
-user: mohanj.tecs@gmail.com
-pwd: home@1000
-
-Once you have tried, reply  (THis is before AI/ML)
+1.index.html
